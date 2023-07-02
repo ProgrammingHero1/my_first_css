@@ -1,0 +1,44 @@
+.header{
+    height: 300px;
+    /* background-image: url('grandma.jpg'); */
+    /* background-image: url('../strong.jpg'); */
+    background-image: url('../images/developers/developer.png');
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    /* background-size: 200px; */
+}
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.blog{
+    margin: 40px;
+    border:10px solid tomato;
+    box-shadow: 10px 10px 20px blueviolet;
+}
+
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+.incident{
+    border: 2px solid purple;
+    margin: 20px;
+    display: inline-block;
+}
+
+li{
+    display: inline;
+}
+
+.dolor{
+    border: 2px solid peru;
+    height: 60px;
+    display: inline-block;
+}
